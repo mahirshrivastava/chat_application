@@ -1,0 +1,19 @@
+{
+  "name": "chat_app",
+  "version": "1.0.0",
+  "description": "Chat app for multiple users",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahirshrivastava/chat_application.git"
+  },
+  "author": "Mahir Shrivastava",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mahirshrivastava/chat_application/issues"
+  },
+  "homepage": "https://github.com/mahirshrivastava/chat_application#readme"
+}
